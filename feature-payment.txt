@@ -1,0 +1,23 @@
+Event Management System
+Feature: Payment Module
+
+Description:
+Handles payment processing for event bookings.
+
+Features:
+
+Accept UPI / Card / Net Banking
+
+Validate payment details
+
+Generate confirmation ID
+
+Store transaction record
+
+Test Cases:
+
+Valid payment
+
+Invalid card
+
+Insufficient balance
