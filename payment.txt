@@ -2,3 +2,4 @@ Payment Feature:
 - User can enter payment amount
 - User can select payment method (Credit/Debit)
 - Payment processed successfully
+Payment validation test added by Person 2
